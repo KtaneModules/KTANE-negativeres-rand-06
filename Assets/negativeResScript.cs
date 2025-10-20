@@ -7,7 +7,7 @@ using UnityEngine;
 using KModkit;
 using Random = UnityEngine.Random;
 
-public class script : MonoBehaviour
+public class negativeResScript : MonoBehaviour
 {
     public KMBombModule Module;
     //public KMSelectable Cover;
